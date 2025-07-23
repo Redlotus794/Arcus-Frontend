@@ -5,6 +5,10 @@ Arcus 项目的前端项目集合.
 ## Arcus-Arco-Design-Vue
 Arcus Arco Design Vue 是使用TypeScript的Arco Design Pro重写Arcus Vue 前端项目
 
+### 基本信息
+
+地址: http://localhost:5173
+
 ### 项目初始化
 
 - 安装 Arco Cli
@@ -18,6 +22,19 @@ npm i arco-cli@latest pnpm -g
 ```
 arco init arcus-arco-design-vue
 ```
+
+- 安装依赖
+
+```
+yarn install
+```
+
+- 开发环境
+```shell
+yarn dev
+```
+
+
 
 ## 参考项目
 
